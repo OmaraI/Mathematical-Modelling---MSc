@@ -1,12 +1,12 @@
-# Infectious Disease Dynamics and Mathematical Modelling Assignment
+## Infectious Disease Dynamics and Mathematical Modelling Assignment
 A mini project work done during my MSc degree in Makerere University (2019-2022). This was a group project to model the Ebola virus outbreak in Liberia in 2014 
 
-# Group Members:
+### Group Members:
 1. Omara Isaac Emmanuel
 2. Lukyamuzi Edward
 3. Nabirye Stella
 
-# Introduction
+#### Introduction
 Disease control is a very complex problem for health officers, this is why mathematical models are used to predict and understand diseases. The transmission of Ebola virus is better described by a SEIR model. This is because it takes a certain time for an infected individual to become infectious. During that period of time,
 such individuals are in the exposed/latent compartment.Discrete SEIR time models to Ebola epidemics are available but in our work, we are demonstrating continuous time model, which is more common with respect to Ebola modeling. It also turns out that in available Ebola
 studies with SEIR models, the population is assumed to be constant. This assumption is far from being true
