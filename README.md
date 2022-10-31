@@ -1,5 +1,5 @@
-# Mathematical-Modelling-MSc
-A mini project work done during my MSc degree in Makerere University (2019-2022). This was a group mini project to model the Ebola virus outbreak in the West African Epidemic 
+# Infectious Disease Dynamics and Mathematical Modelling Assignment
+A mini project work done during my MSc degree in Makerere University (2019-2022). This was a group project to model the Ebola virus outbreak in Liberia in 2014 
 
 # Group Members:
 1. Omara Isaac Emmanuel
